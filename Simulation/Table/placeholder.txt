@@ -1,0 +1,1 @@
+This file is a placeholder to ensure Git tracks this empty folder.
